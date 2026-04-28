@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "SupremeGaming.aternos.me",
     "port": 60745,
-    "version": "1.20.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
